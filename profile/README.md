@@ -5,9 +5,19 @@
 
 # Attune Automation for IT Environment Integration Management
 
-Tedious repetitive tasks are bogging down System Administrator’s and wasting 
-precious time. Tasks are missing deadlines and System Administrator's are 
-not as efficient as you know they can be.
+Attune is a highly flexible automation and orchestration solution that 
+empowers individuals to configure and execute any task, comparable to 
+actions performed by skilled System Administrators using terminals. An 
+agentless solution that seamlessly connects to devices using existing 
+protocols.
+
+Through our innovative approach, individual steps are composed in 
+widely-used scripting languages, meticulously orchestrated into automated 
+procedures. These procedures can be easily modified and debugged in 
+real-time, with comprehensive log capture and knowledge accessibility. 
+Attune enables organisations to effortlessly harness the power of 
+automation, reducing manual efforts and elevating operational efficiency to 
+new heights.
 
 Our software solution 
 **[Attune](https://www.servertribe.com/comunity-edition/)** 
@@ -56,3 +66,22 @@ The **Attune Community Edition** can be
 from our [ServerTribe website](https://www.servertribe.com/). You can learn 
 more about Attune through 
 [ServerTribe's YouTube Channel](https://www.youtube.com/channel/UCLRvZajNQXfQPJnYFdeXZ3w).
+
+# Powered by ServerTribe
+
+The utopian vision of ServerTribe encompasses a transformative odyssey, where 
+automation, innovation, and empowerment unite in a harmonious chorus. In this 
+future, ServerTribe isn't just a company; it's a global force propelling 
+humanity toward unparalleled achievement. As we embark on this journey, 
+remember: the future we envision today is the reality we create tomorrow.
+
+ServerTribe is to lead the transformation of SysOps through cutting-edge 
+automation, liberating human potential, and fostering a culture of innovation. 
+By streamlining processes, driving efficiency, and leveraging advanced software 
+solutions, we empower businesses to unlock their full potential, enabling them 
+to achieve strategic objectives with unprecedented speed and precision while 
+reducing support costs. Our relentless dedication to empowering our clients 
+drives us towards a future where digital systems seamlessly support and enhance 
+their productivity, efficiency, and success.
+
+[ServerTribe website](https://www.servertribe.com/)
