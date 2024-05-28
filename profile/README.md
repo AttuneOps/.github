@@ -1,7 +1,11 @@
-[![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](http://doc.servertribe.com)
-[![Discord](https://img.shields.io/discord/844971127703994369)](http://discord.servertribe.com)
+[![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](http://doc.attuneops.io)
+[![Discord](https://img.shields.io/discord/844971127703994369)](http://discord.attuneops.io)
 [![Docs](https://img.shields.io/badge/videos-watch-brightgreen.svg)](https://www.youtube.com/@servertribe)
-[![Generic badge](https://img.shields.io/badge/download-latest-brightgreen.svg)](https://www.servertribe.com/comunity-edition/)
+[![Generic badge](https://img.shields.io/badge/download-latest-brightgreen.svg)](https://www.attuneops.io/comunity-edition/)
+
+# AttuneOps Projects
+
+[Github Projects](https://github.com/orgs/AttuneOps/repositories)
 
 # Attune Automation for IT Environment Integration Management
 
@@ -20,7 +24,7 @@ automation, reducing manual efforts and elevating operational efficiency to
 new heights.
 
 Our software solution 
-**[Attune](https://www.servertribe.com/comunity-edition/)** 
+**[Attune](https://attuneops.io)** 
 automates your **IT Environment Integration Management**. We’re building a 
 community of sharable automated and orchestrated processes to be used on the 
 Attune platform.
@@ -62,20 +66,20 @@ SysOps be more efficient.
 # Download Attune NOW!
 
 The **Attune Community Edition** can be 
-[downloaded for free](https://www.servertribe.com/comunity-edition/) 
-from our [ServerTribe website](https://www.servertribe.com/). You can learn 
+[downloaded for free](https://www.attuneops.io/comunity-edition/) 
+from our [AttuneOps website](https://www.attuneops.io/). You can learn 
 more about Attune through 
-[ServerTribe's YouTube Channel](https://www.youtube.com/channel/UCLRvZajNQXfQPJnYFdeXZ3w).
+[AttuneOps's YouTube Channel](https://www.youtube.com/channel/UCLRvZajNQXfQPJnYFdeXZ3w).
 
-# Powered by ServerTribe
+# Powered by AttuneOps
 
-The utopian vision of ServerTribe encompasses a transformative odyssey, where 
+The utopian vision of AttuneOps encompasses a transformative odyssey, where 
 automation, innovation, and empowerment unite in a harmonious chorus. In this 
-future, ServerTribe isn't just a company; it's a global force propelling 
+future, AttuneOps isn't just a company; it's a global force propelling 
 humanity toward unparalleled achievement. As we embark on this journey, 
 remember: the future we envision today is the reality we create tomorrow.
 
-ServerTribe is to lead the transformation of SysOps through cutting-edge 
+AttuneOps is to lead the transformation of SysOps through cutting-edge 
 automation, liberating human potential, and fostering a culture of innovation. 
 By streamlining processes, driving efficiency, and leveraging advanced software 
 solutions, we empower businesses to unlock their full potential, enabling them 
@@ -84,4 +88,4 @@ reducing support costs. Our relentless dedication to empowering our clients
 drives us towards a future where digital systems seamlessly support and enhance 
 their productivity, efficiency, and success.
 
-[ServerTribe website](https://www.servertribe.com/)
+[AttuneOps website](https://www.attuneops.io/)
