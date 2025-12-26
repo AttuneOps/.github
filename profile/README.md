@@ -1,91 +1,102 @@
-[![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](http://doc.attuneops.io)
-[![Discord](https://img.shields.io/discord/844971127703994369)](http://discord.attuneops.io)
-[![Docs](https://img.shields.io/badge/videos-watch-brightgreen.svg)](https://www.youtube.com/@servertribe)
-[![Generic badge](https://img.shields.io/badge/download-latest-brightgreen.svg)](https://www.attuneops.io/comunity-edition/)
+# AttuneOps
 
-# AttuneOps Projects
+**Fast, Light and Simple IT. Infrastructure Orchestration**  
 
-[Github Projects](https://github.com/orgs/AttuneOps/repositories)
+[🌐 Visit Official Website](https://attuneops.io/)
 
-# Attune Automation for IT Environment Integration Management
+Stop manually running your scripts through terminal.
 
-Attune is a highly flexible automation and orchestration solution that 
-empowers individuals to configure and execute any task, comparable to 
-actions performed by skilled System Administrators using terminals. An 
-agentless solution that seamlessly connects to devices using existing 
-protocols.
+AttuneOps performs streamlining and capturing all aspects of deployment, scaling, migrating, and managing of infrastructure, systems, and processes. This encompasses various critical processes such as implementing, upgrading, scheduling, automating repetitive tasks, backups, data restoration, and disaster recovery.
 
-Through our innovative approach, individual steps are composed in 
-widely-used scripting languages, meticulously orchestrated into automated 
-procedures. These procedures can be easily modified and debugged in 
-real-time, with comprehensive log capture and knowledge accessibility. 
-Attune enables organisations to effortlessly harness the power of 
-automation, reducing manual efforts and elevating operational efficiency to 
-new heights.
+AttuneOps helps organisations to:
 
-Our software solution 
-**[Attune](https://attuneops.io)** 
-automates your **IT Environment Integration Management**. We’re building a 
-community of sharable automated and orchestrated processes to be used on the 
-Attune platform.
+- build their capabilities,
+- simplify their operations,
+- increase project cadence,
+- quickly respond to changes,
+- capture their knowledge of their digital systems.
 
-System Administrator’s can leverage the publicly available orchestrated 
-blueprints to increase their productivity, and accelerate the delivery of 
-projects. System Administrator’s can open-source their own and improve existing 
-community orchestrated projects.
+**AttuneOps Supports Popular Scripting Languages**
 
-**The collective power of a community of talented individuals working in concert 
-delivers not only more ideas, but quicker development and troubleshooting when 
-issues arise.**
+Easy-to-understand steps using common scripting languages that System Administrators are already familiar with.
 
-## IT Environment Integration Management
+Automate and orchestrate your scripts, commands, and processes exactly as they would be manually typed into your devices
 
-IT Environment Integration Management is the discipline whereby all of the 
-deploying, scaling, migrating, and managing of infrastructure, systems, and 
-processes are streamlined and captured. These processes may include 
-implementing, upgrading, scheduling, automating repetitive tasks, backups, 
-data restoration, and disaster recovery.
+**Fix Scripts and Resume Automation Jobs**
 
-## SysOps and Attune
+AttuneOps’ game-changing ability to fix scripts and resume automation jobs from where they stopped empowers you to create automation significantly faster than any other product.
 
-SysOps is like being a superhero for computers and technology. They make 
-sure that all the computer systems and networks in a company work well and 
-are safe. They fix any problems that come up, and make sure that everything 
-is running smoothly. They also help with making new computer programs and 
-updates to make sure that the technology is always improving. Think of them 
-as the ones who keep the technology in a company healthy and running like a 
-well-oiled machine.
+**Self-Service Portal**
 
-SysOps have to do a lot of boring and repetitive tasks on their computer 
-systems and networks, and it consumes a lot of their time. This means they 
-can't do other important things and might not finish their work on time. But, 
-there's a special SysOps helper called Attune that can perform those 
-repetitive tasks automatically. It makes everything go faster and helps 
-SysOps be more efficient.
+AttuneOps' Self-Service Portal fixes the headache of constant interruptions.
 
-# Download Attune NOW!
+Anyone in the organisation can run jobs on demand, as needed, without forcing system administrators to repeatedly task switch.
 
-The **Attune Community Edition** can be 
-[downloaded for free](https://www.attuneops.io/comunity-edition/) 
-from our [AttuneOps website](https://www.attuneops.io/). You can learn 
-more about Attune through 
-[AttuneOps's YouTube Channel](https://www.youtube.com/channel/UCLRvZajNQXfQPJnYFdeXZ3w).
+**Powerful Multi-Server Coordination**
 
-# Powered by AttuneOps
+AttuneOps can run steps on multiple servers, as multiple users, within the one Job, enabling environment wide coordination.
 
-The utopian vision of AttuneOps encompasses a transformative odyssey, where 
-automation, innovation, and empowerment unite in a harmonious chorus. In this 
-future, AttuneOps isn't just a company; it's a global force propelling 
-humanity toward unparalleled achievement. As we embark on this journey, 
-remember: the future we envision today is the reality we create tomorrow.
+**Centralise Knowledge and AUTOMATE your Documentation**
 
-AttuneOps is to lead the transformation of SysOps through cutting-edge 
-automation, liberating human potential, and fostering a culture of innovation. 
-By streamlining processes, driving efficiency, and leveraging advanced software 
-solutions, we empower businesses to unlock their full potential, enabling them 
-to achieve strategic objectives with unprecedented speed and precision while 
-reducing support costs. Our relentless dedication to empowering our clients 
-drives us towards a future where digital systems seamlessly support and enhance 
-their productivity, efficiency, and success.
+Centralise software, installers, databases, configuration files, processes, and capture logs for Windows, Linux and macOS devices.
 
-[AttuneOps website](https://www.attuneops.io/)
+---
+
+## 🚀 Releases
+
+For updates and releases, visit the [Releases Page](https://gitlab.com/attuneops/attune/-/releases).
+
+---
+
+## 🧾 Editions
+
+We provide both, **Community** and **Enterprise** Editions.
+
+- 🆓 **[Community Edition](https://attuneops.io/web-ce/pricing/)** – Free to use, ideal for individuals and small teams who want to experience AttuneOps features.
+- 🏢 **[Enterprise Edition](https://attuneops.io/web-ee/pricing/)** – Designed for organisations that require advanced orchestration, scalability, and priority support.
+
+For more information or support, visit our [Official Website](https://attuneops.io/) or join us on [Discord](https://discord.com/invite/3YpJsagqUn).
+
+---
+
+## 🐞 Tickets & Issues
+
+Encounter any issues? Feel free to open an issue in our [Issues Tab](https://gitlab.com/attuneops/attune/-/issues/new).  
+
+---
+
+## 🌍 Social Media
+
+Follow us for announcements, tutorials, and community updates:
+
+- [YouTube](https://www.youtube.com/@attuneops/)  
+- [LinkedIn](https://www.linkedin.com/company/attuneops/)  
+- [Twitter](https://twitter.com/attuneops)  
+- [Discord](https://discord.com/invite/3YpJsagqUn)
+
+---
+
+## 📦 AttuneOps Projects
+
+All our projects are hosted on [GitHub](https://github.com/orgs/AttuneOps/repositories).
+
+---
+
+## 📚 Documentation
+
+For more detailed information about AttuneOps, please visit our [Documentation](https://attuneops.io/docs/).
+
+---
+
+## 🔗 Resources
+
+- 🌐 [Official Website](https://attuneops.io/)  
+- 🆓 [Community Edition](https://attuneops.io/web-ce/pricing/)  
+- 🏢 [Enterprise Edition](https://attuneops.io/web-ee/pricing/)  
+- 📘 [Documentation](https://attuneops.io/docs/)  
+- 🐞 [Report an Issue](https://gitlab.com/attuneops/attune/-/issues/new)  
+- 💬 [Join Discord](https://discord.com/invite/3YpJsagqUn)
+
+---
+
+© 2026 **AttuneOps**. All rights reserved.
